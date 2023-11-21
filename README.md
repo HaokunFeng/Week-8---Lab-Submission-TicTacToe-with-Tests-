@@ -12,6 +12,7 @@ This is the TECHIN509 homework of week 8
 
 #The tests should cover the following features
 -The game is initialized with an empty board
+
 -The game is initialized with either 2 players (human-human) or 1 player (human-bot)
 -Players are assigned a unique piece to plays: X or O
 -After one player plays, the other player has a turn
