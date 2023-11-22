@@ -19,3 +19,8 @@ This is the TECHIN509 homework of week 8
 - All winning end of the games detected, and draw games are identified
 - Players can play only in viable spots
 - The correct game winner, if one exists, is detected
+
+# How to run the test
+- python -m unittest tests
+- Copy and paste the above code to command line, then enter to run the tests.py
+- During the test, it need to enter a row and a col to test the take_turn(row, col) function in players.py. If you enter "1 2" as "row col", the result is TRUE. Otherwise the tests.py will return an AssertionError.
